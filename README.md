@@ -15,7 +15,7 @@
 - 🧗 I try to: Go beyond and push the bounds
 - 💞️ I’m looking to collaborate on ...
 - 👀 I’m interested in HTML, CSS, React, Node.js , Express.js , JavaScript<br>
-- 📄 Check out my [Resume](https://github.com/shahabhi095/shahabhi096/blob/095f4146e1307e526320d3fde48cac5fd4b4b3e3/assets/Abhinandan_Kumar_Resume.pdf)<br>
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1VGTPkPt5MM0tC34XWPv54MbkIU0fIs5T/view?usp=share_link)<br>
 - 💻 Know more about me [Portfilio](https://shahabhi095.github.io/)<br>
 - 💻 All of my projects are available at My [Github Repositories](https://github.com/shahabhi095?tab=repositories)<br>
 - 📫 How to reach me shahabhi095@gmail.com<br>
